@@ -1,1 +1,19 @@
+Certo. Modo **ASK** ativado.
+
+Stack assumida:
+
+* Node.js 17 + TypeScript
+* Express (quando aplicável)
+* ESM (vou assumir, me corrija se estiver usando CommonJS)
+
+Pronta para:
+
+* diagnosticar erros
+* explicar código
+* sugerir abordagens
+* apontar riscos e trade-offs
+
+Sem mudanças automáticas — só orientação cirúrgica.
+
+Pode mandar o problema.
 
