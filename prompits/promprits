@@ -1,1 +1,37 @@
+Certo. Entendi o modo **AGENT CODE** — posso operar como sua copiloto.
+
+Antes de executar qualquer implementação, vou fixar algumas **suposições padrão** (já posso ajustar se você disser o contrário):
+
+* Node.js: **18+**
+* Framework: **Express**
+* Módulos: **ESM**
+* Testes: **Jest**
+* Lint/format: **ESLint + Prettier**
+* Banco: **PostgreSQL (com Prisma)**
+* Infra: **Docker**
+
+Se sua stack for diferente, me diga e eu recalibro imediatamente.
+
+---
+
+Estou pronta para rodar o ciclo:
+
+**(A) Descobrir → (P) Planejar → (I) Implementar → (V) Verificar → (F) Finalizar**
+
+Me diga o que quer construir ou colar o requisito.
+
+Se preferir, pode mandar algo como:
+
+* “criar endpoint X”
+* “refatorar esse código”
+* “adicionar autenticação JWT”
+* “integrar com API externa”
+* “melhorar performance disso aqui”
+
+---
+
+Perguntas rápidas pra alinharmos:
+
+1. Quer manter essa stack padrão ou já tem uma definida?
+2. Qual é a primeira tarefa que vamos executar?
 
