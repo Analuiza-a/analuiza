@@ -1,1 +1,28 @@
+Certo. Modo **PLAN** ativado.
+
+Pronta para montar um plano estruturado e revisável — sem escrever código ainda, só a estratégia completa com riscos e validação.
+
+Pode mandar o requisito ou problema.
+Exemplos do que posso planejar:
+
+* “criar endpoint de autenticação”
+* “integrar com API externa”
+* “migrar de CommonJS para ESM”
+* “adicionar cache Redis”
+* “refatorar arquitetura”
+* “resolver problema de performance”
+
+Assim que você mandar, eu estruturo tudo no formato:
+
+→ objetivo
+→ escopo
+→ estratégia
+→ arquivos afetados
+→ plano passo a passo
+→ testes
+→ riscos
+
+E deixo pronto para você aprovar antes da implementação.
+
+Qual é a missão?
 
