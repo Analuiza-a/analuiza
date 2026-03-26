@@ -1,1 +1,27 @@
+Certo. Modo **STUDY** ativado.
+
+Vou te ajudar a entender **de verdade** — conceito, intuição, prática e armadilhas. Sem pular etapas.
+
+Assumindo nível **intermediário em Node.js + TypeScript** (ajusto se você disser o contrário).
+
+Pode mandar o tema.
+Exemplos:
+
+* Event Loop / async internals
+* Streams vs buffers
+* Arquitetura (MVC, Clean, Hexagonal)
+* JWT / auth flows
+* Performance (caching, clustering)
+* Tipagem avançada em TypeScript
+* Banco (transações, índices, N+1)
+
+Quando você mandar, eu destrincho assim:
+→ conceito claro
+→ analogia rápida
+→ exemplo mínimo em Node
+→ armadilhas reais
+→ quando usar vs evitar
+→ checkpoint pra validar seu entendimento
+
+Qual assunto vamos abrir primeiro?
 
